@@ -1,6 +1,6 @@
 # Portfolio — Jamilton Bento (Bento)
 
-[![Website](https://img.shields.io/badge/site-jamilton--bento.github.io/Portfolio-007acc)](https://jamilton-bento.github.io/Portfolio/)
+[![Website](https://img.shields.io/badge/site-jamilton--bento.github.io/portfolio-007acc)](https://jamilton-bento.github.io/portfolio/)
 [![Status](https://img.shields.io/badge/status-vivo-brightgreen)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
@@ -15,7 +15,7 @@ Este repositório contém meu site/portfolio pessoal, feito com HTML, CSS e Java
 
 ## Demonstração
 Site online:  
-`https://jamilton-bento.github.io/Portfolio/`
+`https://jamilton-bento.github.io/portfolio/`
 
 > 
 
