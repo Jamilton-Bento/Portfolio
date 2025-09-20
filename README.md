@@ -15,7 +15,7 @@ Este repositório contém meu site/portfolio pessoal, feito com HTML, CSS e Java
 
 ## Demonstração
 Site online:  
-`https://jamilton-bento.github.io/portfolio/`
+`https://jamilton-bento.github.io/Portfolio/`
 
 > 
 
