@@ -1,6 +1,6 @@
 # Portfolio — Jamilton Bento (Bento)
 
-[![Website](https://img.shields.io/badge/site-jamilton--bento.github.io/portfolio-007acc)](https://jamilton-bento.github.io/portfolio/)
+[![Website](https://img.shields.io/badge/site-jamilton--bento.github.io/Portfolio-007acc)](https://jamilton-bento.github.io/Portfolio/)
 [![Status](https://img.shields.io/badge/status-vivo-brightgreen)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
