@@ -4,7 +4,7 @@
   box-sizing: border-box;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-htm{
+html{
   scroll-behavior: smooth;
 }
 :root{
@@ -239,4 +239,15 @@ h1{
     transform: translateY(-20px);
   }
   
+}
+::-webkit-scrollbar{
+  background-color: #0f172a;
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(180deg, var(--primaria), var(--secundaria));
+  box-shadow: 0 5px 15px rgba(79, 70, 229, 0.4);
+  border-radius: 8px;
+  width: 10px;
 }
